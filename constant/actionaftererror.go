@@ -1,0 +1,11 @@
+package constant
+
+type ACTION_AFTER_ERROR int
+
+const (
+	CONTINUE = iota
+	START_NEXT_THREAD_LOOP
+	STOP_THREAD
+	STOP_TEST
+	TOP_TEST_NOW
+)

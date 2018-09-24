@@ -1,0 +1,312 @@
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-23T121346.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-23T121345-1.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-23T121345.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-23T121344-1.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-23T121344.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112935-5.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112935-4.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112935-3.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112935-2.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112935-1.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112935.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112934.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112910.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112909.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112822.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112618-5.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112618-4.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112618-3.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112618-2.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112618-1.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112618.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112617-6.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112617-5.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112617-4.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112617-3.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112617-2.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112617-1.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112617.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112616-5.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112616-4.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112616-3.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112616-2.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112616-1.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112616.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112615-1.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112615.200.json
+
+###
+
+GET http://localhost:8080/ping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112556.200.json
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112537.404.txt
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-09-22T112532.404.txt
+
+###
+
