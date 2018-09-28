@@ -1,4 +1,4 @@
-package models
+package performance
 
 import (
 	. "github.com/kingangelAOA/tyrannosaurs/constant"

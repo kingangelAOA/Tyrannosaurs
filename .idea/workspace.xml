@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="017e892e-7dbc-41d2-bf9a-d420eb2f62c8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-22T112532.404.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performance/preprocessors/userparams.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constant/exceptiontype.go" beforeDir="false" afterPath="$PROJECT_DIR$/constant/exceptiontype.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/assert.go" beforeDir="false" afterPath="$PROJECT_DIR$/performance/assertions/assert.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/csvdata.go" beforeDir="false" afterPath="$PROJECT_DIR$/performance/configelement/csvdata.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/csvdata_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/performance/configelement/csvdata_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/http.go" beforeDir="false" afterPath="$PROJECT_DIR$/performance/samples/http.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/http_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/performance/samples/http_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/interfaces.go" beforeDir="false" afterPath="$PROJECT_DIR$/performance/interfaces.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/jsonextractor.go" beforeDir="false" afterPath="$PROJECT_DIR$/performance/postprocessors/jsonextractor.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/scenario.go" beforeDir="false" afterPath="$PROJECT_DIR$/performance/scenario.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/testplan.go" beforeDir="false" afterPath="$PROJECT_DIR$/performance/testplan.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/threadgroup.go" beforeDir="false" afterPath="$PROJECT_DIR$/performance/threadgroup.go" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,89 +27,89 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="http.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/http.go">
+        <entry file="file://$PROJECT_DIR$/performance/samples/http.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+            <state relative-caret-position="-7">
+              <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
               <folding>
-                <element signature="e#16#133#0" expanded="true" />
+                <element signature="e#17#134#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="http_test.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/http_test.go">
+      <file leaf-file-name="userparams.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/performance/preprocessors/userparams.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="-7">
+              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="csvdata_test.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/csvdata_test.go">
+      <file leaf-file-name="interfaces.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/performance/interfaces.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="231">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server.go">
+      <file leaf-file-name="jsonextractor.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/performance/postprocessors/jsonextractor.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+            <state relative-caret-position="-7">
+              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
               <folding>
-                <element signature="e#14#99#0" expanded="true" />
+                <element signature="e#24#152#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="info.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/info.log">
-          <provider selected="true" editor-type-id="LogFileEditorProvider">
-            <state relative-caret-position="195">
-              <caret line="13" column="57" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="57" />
+      <file leaf-file-name="exceptiontype.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/constant/exceptiontype.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="http-requests-log.http" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="error.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/error.log">
-          <provider selected="true" editor-type-id="LogFileEditorProvider" />
-        </entry>
-      </file>
-      <file leaf-file-name="log.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/util/log.go">
+      <file leaf-file-name="actionaftererror.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/constant/actionaftererror.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="-7">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assert.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/performance/assertions/assert.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="csvdata.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/performance/configelement/csvdata.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="61" column="29" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="29" />
+              <folding>
+                <element signature="e#23#184#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="scenario.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/scenario.go">
+        <entry file="file://$PROJECT_DIR$/performance/scenario.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="-7">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -164,7 +170,6 @@
         <option value="$PROJECT_DIR$/models/csvdata_test.go" />
         <option value="$PROJECT_DIR$/models/csvdata.go" />
         <option value="$PROJECT_DIR$/test.go" />
-        <option value="$PROJECT_DIR$/constant/exceptiontype.go" />
         <option value="$PROJECT_DIR$/models/jsonextractor.go" />
         <option value="$PROJECT_DIR$/models/testplan.go" />
         <option value="$PROJECT_DIR$/models/threadgroup.go" />
@@ -173,6 +178,14 @@
         <option value="$PROJECT_DIR$/models/interfaces.go" />
         <option value="$PROJECT_DIR$/models/scenario.go" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/performance/testplan.go" />
+        <option value="$PROJECT_DIR$/performance/postprocessors/jsonextractor.go" />
+        <option value="$PROJECT_DIR$/performance/configelement/csvdata.go" />
+        <option value="$PROJECT_DIR$/constant/exceptiontype.go" />
+        <option value="$PROJECT_DIR$/performance/preprocessors/userparams.go" />
+        <option value="$PROJECT_DIR$/performance/samples/base.go" />
+        <option value="$PROJECT_DIR$/performance/samples/http.go" />
+        <option value="$PROJECT_DIR$/performance/interfaces.go" />
       </list>
     </option>
   </component>
@@ -204,12 +217,42 @@
             <path>
               <item name="tyrannosaurs" type="b2602c69:ProjectViewProjectNode" />
               <item name="tyrannosaurs" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tyrannosaurs" type="b2602c69:ProjectViewProjectNode" />
               <item name="tyrannosaurs" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tyrannosaurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tyrannosaurs" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+              <item name="assertions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tyrannosaurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tyrannosaurs" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+              <item name="configelement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tyrannosaurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tyrannosaurs" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+              <item name="postprocessors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tyrannosaurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tyrannosaurs" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+              <item name="preprocessors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tyrannosaurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tyrannosaurs" type="462c0819:PsiDirectoryNode" />
+              <item name="performance" type="462c0819:PsiDirectoryNode" />
+              <item name="samples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tyrannosaurs" type="b2602c69:ProjectViewProjectNode" />
@@ -243,6 +286,30 @@
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="GOPATH &lt;tyrannosaurs&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="golang.org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tyrannosaurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="GOPATH &lt;tyrannosaurs&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="golang.org" type="462c0819:PsiDirectoryNode" />
+              <item name="x" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tyrannosaurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="GOPATH &lt;tyrannosaurs&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="golang.org" type="462c0819:PsiDirectoryNode" />
+              <item name="x" type="462c0819:PsiDirectoryNode" />
+              <item name="sync" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tyrannosaurs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="GOPATH &lt;tyrannosaurs&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="gopkg.in" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -261,15 +328,18 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/performance/postprocessors" />
+      <recent name="$PROJECT_DIR$/performance/configelement" />
+      <recent name="$PROJECT_DIR$/performance/assertions" />
+      <recent name="$PROJECT_DIR$/performance/samples" />
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/util" />
     </key>
   </component>
   <component name="RestClientSettings">
@@ -425,19 +495,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20243205" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20529328" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50646204" side_tool="true" weight="0.32850242" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32848486" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49353796" weight="0.3260606" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32848486" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49353796" weight="0.24528302" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23796424" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -448,23 +517,23 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49353796" weight="0.32850242" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32850242" />
-      <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="REST Client" order="0" visible="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49353796" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50646204" side_tool="true" weight="0.32850242" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -518,13 +587,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../phantom/fetch_test.go" />
-    <entry file="file://$PROJECT_DIR$/../phantom/data.go" />
-    <entry file="file://$USER_HOME$/.gvm/gos/go1.9.3/src/io/io.go" />
-    <entry file="file://$USER_HOME$/.gvm/gos/go1.9.3/src/io/ioutil/ioutil.go" />
-    <entry file="file://$USER_HOME$/.gvm/gos/go1.9.3/src/bufio/bufio.go" />
-    <entry file="file://$USER_HOME$/.gvm/gos/go1.9.3/src/strings/strings.go" />
-    <entry file="file://$PROJECT_DIR$/../../sirupsen/logrus/logger.go" />
     <entry file="file://$PROJECT_DIR$/routers/login.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -547,41 +609,13 @@
     <entry file="file://$PROJECT_DIR$/../phantom/engine.go" />
     <entry file="file://$PROJECT_DIR$/../../../k8s.io/client-go/plugin/pkg/client/auth/gcp/gcp.go" />
     <entry file="file://$USER_HOME$/.gvm/gos/go1.9.3/src/bytes/buffer.go" />
-    <entry file="file://$PROJECT_DIR$/models/csvdata.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="53" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../k8s.io/client-go/util/jsonpath/jsonpath_test.go" />
     <entry file="file://$PROJECT_DIR$/test.go" />
     <entry file="file://$PROJECT_DIR$/../../../k8s.io/client-go/util/jsonpath/parser.go" />
     <entry file="file://$PROJECT_DIR$/../../../k8s.io/client-go/util/jsonpath/jsonpath.go" />
     <entry file="file://$USER_HOME$/.gvm/gos/go1.9.3/src/fmt/print.go" />
-    <entry file="file://$PROJECT_DIR$/constant/exceptiontype.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/jsonextractor.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.gvm/gos/go1.9.3/src/builtin/builtin.go" />
-    <entry file="file://$PROJECT_DIR$/models/testplan.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/threadgroup.go">
+    <entry file="file://$PROJECT_DIR$/performance/threadgroup.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
@@ -590,24 +624,35 @@
     </entry>
     <entry file="file://$USER_HOME$/.gvm/gos/go1.9.3/src/net/http/client.go" />
     <entry file="file://$USER_HOME$/.gvm/gos/go1.9.3/src/net/http/request.go" />
-    <entry file="file://$PROJECT_DIR$/models/interfaces.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/scenario.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../monochromegane/go_design_pattern/chain_of_responsibility/chain_of_responsibility_test.go" />
     <entry file="file://$PROJECT_DIR$/../../monochromegane/go_design_pattern/chain_of_responsibility/chain_of_responsibility.go" />
     <entry file="file://$PROJECT_DIR$/../../alecthomas/gometalinter/.gitignore" />
     <entry file="file://$PROJECT_DIR$/../../../golang.org/x/crypto/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/server.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info.log" />
+    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error.log" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/time.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/config.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/util/log.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -615,59 +660,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.go">
+    <entry file="file://$PROJECT_DIR$/performance/testplan.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/performance/samples/http_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding>
-            <element signature="e#14#99#0" expanded="true" />
+            <element signature="e#17#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/info.log">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="195">
-          <caret line="13" column="57" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/error.log">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="LogFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/http_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/csvdata_test.go">
+    <entry file="file://$PROJECT_DIR$/performance/configelement/csvdata_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/http.go">
+    <entry file="file://$PROJECT_DIR$/jmeter.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constant/actionaftererror.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        <state relative-caret-position="-7">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/performance/preprocessors/userparams.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/performance/scenario.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/performance/assertions/assert.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/performance/samples/base.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constant/exceptiontype.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/performance/postprocessors/jsonextractor.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
           <folding>
-            <element signature="e#16#133#0" expanded="true" />
+            <element signature="e#24#152#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/performance/samples/http.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state relative-caret-position="-7">
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+          <folding>
+            <element signature="e#17#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/performance/interfaces.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/performance/configelement/csvdata.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="61" column="29" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="29" />
+          <folding>
+            <element signature="e#23#184#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

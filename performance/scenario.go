@@ -1,4 +1,4 @@
-package models
+package performance
 
 
 type Scenario struct {

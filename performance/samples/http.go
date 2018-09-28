@@ -1,4 +1,4 @@
-package models
+package samples
 
 import (
 	"net/http"
@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"bytes"
 	"time"
-	. "github.com/kingangelAOA/tyrannosaurs/util"
+	. "tyrannosaurs/util"
 )
 
 type Http struct {
@@ -29,6 +29,11 @@ type Http struct {
 	Params     *[]Param
 	*CookieData
 	*Auth
+}
+
+type Param struct {
+	Key   string
+	Value string
 }
 
 type CookieData struct {

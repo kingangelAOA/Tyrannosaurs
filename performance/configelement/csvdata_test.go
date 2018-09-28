@@ -1,4 +1,4 @@
-package models
+package configelement
 
 import (
 	"testing"

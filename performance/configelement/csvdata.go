@@ -1,9 +1,9 @@
-package models
+package configelement
 
 import (
 	"os"
-	. "github.com/kingangelAOA/tyrannosaurs/util"
-	. "github.com/kingangelAOA/tyrannosaurs/constant"
+	. "tyrannosaurs/util"
+	. "tyrannosaurs/constant"
 	"bufio"
 	"io"
 	"strings"

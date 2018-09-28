@@ -1,11 +1,11 @@
-package models
+package postprocessors
 
 import (
 	"encoding/json"
 	"fmt"
 	"k8s.io/client-go/util/jsonpath"
 	"bytes"
-	. "github.com/kingangelAOA/tyrannosaurs/constant"
+	. "tyrannosaurs/constant"
 )
 
 type JsonExtractor struct {

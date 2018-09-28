@@ -1,4 +1,4 @@
-package models
+package assertions
 
 type Asserts struct {
 	JsonAsserts *[]JsonAssert
