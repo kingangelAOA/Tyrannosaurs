@@ -1,7 +1,7 @@
 package performance
 
 import (
-	. "github.com/kingangelAOA/tyrannosaurs/constant"
+	. "tyrannosaurs/constant"
 )
 
 type ThreadGroup struct {
