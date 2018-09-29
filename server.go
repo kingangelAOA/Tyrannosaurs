@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	. "github.com/kingangelAOA/tyrannosaurs/util"
+	. "tyrannosaurs/util"
 )
 
 func main() {

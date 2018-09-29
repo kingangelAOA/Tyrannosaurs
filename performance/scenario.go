@@ -5,7 +5,3 @@ type Scenario struct {
 	Name string
 
 }
-
-func test() {
-
-}

@@ -2,13 +2,13 @@ package configelement
 
 import (
 	"os"
-	. "tyrannosaurs/util"
-	. "tyrannosaurs/constant"
 	"bufio"
 	"io"
 	"strings"
 	"sync"
 	"math/rand"
+	. "tyrannosaurs/util"
+	. "tyrannosaurs/constant"
 )
 
 var once sync.Once

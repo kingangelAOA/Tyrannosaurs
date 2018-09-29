@@ -1,4 +1,4 @@
-package samples
+package samplers
 
 import (
 	"net/http"
@@ -19,13 +19,13 @@ type Http struct {
 	Method     string
 	Path       string
 	Coding     string
-	Consuming  int64
 	error      string
+	Consuming  int64
+	Body       string
 	Query      map[string]string
 	Header     map[string]string
 	Form       map[string]string
 	PostForm   map[string]string
-	Body       string
 	Params     *[]Param
 	*CookieData
 	*Auth

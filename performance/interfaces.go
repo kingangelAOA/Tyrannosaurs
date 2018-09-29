@@ -11,3 +11,11 @@ type Assertions interface {
 type ConfigElement interface {
 
 }
+
+type PreProcessors interface {
+
+}
+
+type PostProcessors interface {
+
+}

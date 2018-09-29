@@ -1,4 +1,4 @@
-package samples
+package samplers
 
 import (
 	"testing"
