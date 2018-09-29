@@ -1,21 +1,22 @@
 package performance
 
 type Sampler interface {
-	Fetch() (string, error)
+	Fetch() ([]byte, error)
 }
 
 type Assertions interface {
-	GetResult() string
+	GetResult() []byte
+	IsFailed() bool
 }
 
 type ConfigElement interface {
-
+	GetValueByKey(key string) string
 }
 
 type PreProcessors interface {
-
+	Process()
 }
 
 type PostProcessors interface {
-
+	Process()
 }

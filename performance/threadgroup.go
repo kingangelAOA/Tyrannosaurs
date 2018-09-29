@@ -14,3 +14,11 @@ type ThreadGroup struct {
 	Duration         int
 	Tasks            []func()
 }
+
+func (t *ThreadGroup) Run()  {
+	
+}
+
+func (t *ThreadGroup) Stop()  {
+	
+}

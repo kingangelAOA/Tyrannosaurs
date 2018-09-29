@@ -20,7 +20,7 @@ type VarExp struct {
 	Default string
 }
 
-func (je *JsonExtractor) NewJsonExtractor(j string) error {
+func (je *JsonExtractor) NewExtractor(j string) error {
 	for _, varExp := range je.VarExpList {
 		input := []byte(j)
 		var data interface{}
@@ -36,8 +36,7 @@ func (je *JsonExtractor) NewJsonExtractor(j string) error {
 		if err := jp.Execute(buf, data); err != nil {
 			return fmt.Errorf("json path '%s' did not found ", varExp.path)
 		}
-		out := buf.String()
-		je.VarValue[varExp.Var] = out
+		je.VarValue[varExp.Var] = buf.String()
 	}
 	return nil
 }
