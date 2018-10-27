@@ -2,7 +2,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-28T014829-3.200.json
+<> 2018-10-07T094758.200.json
 
 ###
 
@@ -10,7 +10,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-28T014829-2.200.json
+<> 2018-10-07T094757-4.200.json
 
 ###
 
@@ -18,7 +18,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-28T014829-1.200.json
+<> 2018-10-07T094757-3.200.json
 
 ###
 
@@ -26,7 +26,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-28T014829.200.json
+<> 2018-10-07T094757-2.200.json
 
 ###
 
@@ -34,7 +34,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-28T014828-5.200.json
+<> 2018-10-07T094757-1.200.json
 
 ###
 
@@ -42,7 +42,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-28T014828-4.200.json
+<> 2018-10-07T094757.200.json
 
 ###
 
@@ -50,7 +50,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-28T014828-3.200.json
+<> 2018-10-07T094516.200.json
 
 ###
 
@@ -58,7 +58,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-28T014828-2.200.json
+<> 2018-10-07T094515-6.200.json
 
 ###
 
@@ -66,7 +66,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-28T014828-1.200.json
+<> 2018-10-07T094515-5.200.json
 
 ###
 
@@ -74,7 +74,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-28T014828.200.json
+<> 2018-10-07T094515-4.200.json
 
 ###
 
@@ -82,7 +82,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-28T014827.200.json
+<> 2018-10-07T094515-3.200.json
 
 ###
 
@@ -90,7 +90,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-28T014824.200.json
+<> 2018-10-07T094515-2.200.json
 
 ###
 
@@ -98,7 +98,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-23T121346.200.json
+<> 2018-10-07T094515-1.200.json
 
 ###
 
@@ -106,7 +106,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-23T121345-1.200.json
+<> 2018-10-07T094515.200.json
 
 ###
 
@@ -114,7 +114,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-23T121345.200.json
+<> 2018-10-07T094514-6.200.json
 
 ###
 
@@ -122,7 +122,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-23T121344-1.200.json
+<> 2018-10-07T094514-5.200.json
 
 ###
 
@@ -130,7 +130,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-23T121344.200.json
+<> 2018-10-07T094514-4.200.json
 
 ###
 
@@ -138,7 +138,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112935-5.200.json
+<> 2018-10-07T094514-3.200.json
 
 ###
 
@@ -146,7 +146,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112935-4.200.json
+<> 2018-10-07T094514-2.200.json
 
 ###
 
@@ -154,7 +154,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112935-3.200.json
+<> 2018-10-07T094514-1.200.json
 
 ###
 
@@ -162,7 +162,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112935-2.200.json
+<> 2018-10-07T094514.200.json
 
 ###
 
@@ -170,7 +170,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112935-1.200.json
+<> 2018-10-07T094513-3.200.json
 
 ###
 
@@ -178,7 +178,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112935.200.json
+<> 2018-10-07T094513-2.200.json
 
 ###
 
@@ -186,7 +186,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112934.200.json
+<> 2018-10-07T094513-1.200.json
 
 ###
 
@@ -194,7 +194,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112910.200.json
+<> 2018-10-07T094513.200.json
 
 ###
 
@@ -202,7 +202,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112909.200.json
+<> 2018-10-06T081710.200.json
 
 ###
 
@@ -210,7 +210,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112822.200.json
+<> 2018-10-06T081709-6.200.json
 
 ###
 
@@ -218,7 +218,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112618-5.200.json
+<> 2018-10-06T081709-5.200.json
 
 ###
 
@@ -226,7 +226,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112618-4.200.json
+<> 2018-10-06T081709-4.200.json
 
 ###
 
@@ -234,7 +234,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112618-3.200.json
+<> 2018-10-06T081709-3.200.json
 
 ###
 
@@ -242,7 +242,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112618-2.200.json
+<> 2018-10-06T081709-2.200.json
 
 ###
 
@@ -250,7 +250,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112618-1.200.json
+<> 2018-10-06T081709-1.200.json
 
 ###
 
@@ -258,7 +258,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112618.200.json
+<> 2018-10-06T081709.200.json
 
 ###
 
@@ -266,7 +266,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112617-6.200.json
+<> 2018-10-06T081708-1.200.json
 
 ###
 
@@ -274,7 +274,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112617-5.200.json
+<> 2018-10-06T081708.200.json
 
 ###
 
@@ -282,7 +282,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112617-4.200.json
+<> 2018-10-06T081430-4.200.json
 
 ###
 
@@ -290,7 +290,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112617-3.200.json
+<> 2018-10-06T081430-3.200.json
 
 ###
 
@@ -298,7 +298,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112617-2.200.json
+<> 2018-10-06T081430-2.200.json
 
 ###
 
@@ -306,7 +306,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112617-1.200.json
+<> 2018-10-06T081430-1.200.json
 
 ###
 
@@ -314,7 +314,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112617.200.json
+<> 2018-10-06T081430.200.json
 
 ###
 
@@ -322,7 +322,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112616-5.200.json
+<> 2018-10-06T081429-5.200.json
 
 ###
 
@@ -330,7 +330,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112616-4.200.json
+<> 2018-10-06T081429-4.200.json
 
 ###
 
@@ -338,7 +338,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112616-3.200.json
+<> 2018-10-06T081429-3.200.json
 
 ###
 
@@ -346,7 +346,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112616-2.200.json
+<> 2018-10-06T081429-2.200.json
 
 ###
 
@@ -354,7 +354,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112616-1.200.json
+<> 2018-10-06T081429-1.200.json
 
 ###
 
@@ -362,7 +362,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112616.200.json
+<> 2018-10-06T081429.200.json
 
 ###
 
@@ -370,7 +370,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112615-1.200.json
+<> 2018-10-06T081428-6.200.json
 
 ###
 
@@ -378,7 +378,7 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112615.200.json
+<> 2018-10-06T081428-5.200.json
 
 ###
 
@@ -386,15 +386,15 @@ GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112556.200.json
+<> 2018-10-06T081428-4.200.json
 
 ###
 
-GET http://localhost:8080/resources
+GET http://localhost:8080/ping
 Accept: */*
 Cache-Control: no-cache
 
-<> 2018-09-22T112537.404.txt
+<> 2018-10-06T081428-3.200.json
 
 ###
 

@@ -5,6 +5,12 @@ import (
 	. "tyrannosaurs/util"
 )
 
+
+
+func init()  {
+	//InitMysql(*E)
+}
+
 func main() {
 	r := gin.Default()
 	r.GET("/ping", func(c *gin.Context) {
